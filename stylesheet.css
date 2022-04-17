@@ -162,11 +162,7 @@ font-weight: 600;
 
 /*text on image*/	
 .onClickTextOverImage{
- /*width:20%;
-  height:20%;*/
   background-size:cover;
- /*display:inline-block;*/
-  /*border-radius:16px;*
   margin:4px;
   box-shadow:0 0 16px rgba(0,0,0,0.5);*/
   cursor:pointer;
@@ -176,13 +172,10 @@ font-weight: 600;
 .onClickTextOverImage div{
   position:relative;
   color:#fff;
-  /*padding:8px;*/
-  /*top:0;
   bottom:0;
   right:0;
   left:0;*/
   background-color:rgba(0,0,0,0.5);
- /* border-radius:6px;*/
   padding-top:60%;
   text-align:center;
   opacity:0;
