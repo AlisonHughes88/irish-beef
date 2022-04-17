@@ -79,7 +79,7 @@ let Dublin=["Howth","Raheny", "Malahide", "Smithfield"];
 let Galway= ["Salthill", "Spanish Arch", "Barna"];
 let Cork = ["Cobh", "Spike Island", "The Quays"];
 if (value==='Dublin')
-	document.getElementById("marketvalue").innerHTML=Dublin[1];
+	document.getElementById("marketvalue").innerHTML=Dublin;
 		else if(value==='Cork')
 	document.getElementById("marketvalue").innerHTML=Cork;
 		else if	(value==='Galway')
