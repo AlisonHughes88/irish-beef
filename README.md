@@ -1,6 +1,6 @@
 # irish-beef
 Irish Beef - TABA
-![](Images/Placeholder/Field-Close-Up)
+![](Images/Placeholder/Field-Close-Up.jpg)
 ![](Images/Placeholder/Grass-Close-Up)
 ![](Images/Recipes/beef-wellington)
 ![](Images/Recipes/beef-burger)
